@@ -14,7 +14,7 @@
             </td>
             <td width="190" bgcolor="#FFFF66"><ul>
 				<li><a href="home.php">หน้าแรกและถัดไป</li>
-				<li><a href="room.php">ห้องพัก&ราคา</li>
+				<li><a href="room.php">ห้องพักและราคา</li>
 				<li><a herf="guest.php">สมุดเยี่ยม</li>
 				<li><a href="contact.php">ข้อมูลเพิ่มเติม</li>
 				</ul><p>
